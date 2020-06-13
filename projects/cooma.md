@@ -4,7 +4,7 @@ The Cooma project is investigating secure programming language design based on a
 
 ## Participants
 
-* Anthony Sloane
+* [Anthony Sloane](https://inkytonik.github.io)
 * Diego Ocampo Herrera
 * Cameron Pappas
 

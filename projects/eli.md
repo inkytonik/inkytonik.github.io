@@ -7,7 +7,7 @@ Most of the current work on language processors at Macquarie is based on the [Ki
 
 ## Participants
 
-* Anthony Sloane
+* [Anthony Sloane](https://inkytonik.github.io)
 * [William Waite (Colorado)](http://ecee.colorado.edu/~waite/)
 * [Uwe Kastens (Paderborn)](https://ag-kastens.cs.uni-paderborn.de/wir/uwe.html)
 

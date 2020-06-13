@@ -9,7 +9,7 @@ Pretty-printing support is provided by the [Kiama language processing library](p
 
 ## Participants
 
-* Anthony Sloane
+* [Anthony Sloane](https://inkytonik.github.io)
 * [Franck Cassez](https://au.linkedin.com/in/franck-cassez-b775807)
 * Scott Buckley
 

@@ -9,7 +9,7 @@ We have entered Skink in the [International Competition on Software Verification
 
 ## Participants
 
-* Anthony Sloane
+* [Anthony Sloane](https://inkytonik.github.io)
 * [Franck Cassez](https://au.linkedin.com/in/franck-cassez-b775807)
 
 ## Publications

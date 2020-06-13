@@ -14,7 +14,7 @@ By providing appropriate abstractions suitable for language processing, includin
 
 ## Participants
 
-* Anthony Sloane
+* [Anthony Sloane](https://inkytonik.github.io)
 * Matthew Roberts
 * Dominic Verity
 
