@@ -36,5 +36,5 @@ Kats, L. C. L., Sloane, A. M., and Visser, E. 2009. [Decorated Attribute Grammar
 
 ## Software
 
-The Kiama software is released under the open source Mozilla public license. More information including documentation and source downloads can be found at the [Kiama project site](https://bitbucket.org/inkytonik/kiama).
+The Kiama software is released under the open source Mozilla public license. More information including documentation and source downloads can be found at the [Kiama project site](https://github.com/inkytonik/kiama).
 Binary distributions of Kiama are available on Maven Central.

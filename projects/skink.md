@@ -27,4 +27,4 @@ Skink uses the following libraries and tools:
 
 * [Kiama Language Processing Library](projects/kiama)
 * [sbt-rats parser generator](projects/sbtrats)
-* [ScalaSMT SMT solver library](https://bitbucket.org/franck44/scalasmt/src/master/)
+* [ScalaSMT SMT solver library](https://bitbucket.org/franck44/scalasmt)

@@ -19,5 +19,5 @@ Sloane, A. M., Cassez, F., and Buckley, S. 2016. [The sbt-rats parser generator 
 
 ## Software
 
-The sbt-rats software is released under the open source Mozilla public license. More information including documentation and source downloads can be found at the [sbt-rats project site](https://bitbucket.org/inkytonik/sbt-rats).
+The sbt-rats software is released under the open source Mozilla public license. More information including documentation and source downloads can be found at the [sbt-rats project site](https://github.com/inkytonik/sbt-rats).
 Binary distributions of sbt-rats are available on bintray.
