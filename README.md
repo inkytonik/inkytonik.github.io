@@ -2,9 +2,7 @@
 
 Anthony M. Sloane
 
-Associate Professor in the [Department of Computing](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) in the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering) at [Macquarie University](https://www.mq.edu.au/).
-
-I've has been researching programming languages and software language engineering for more than twenty years.
+I have been researching programming languages and software language engineering for more than twenty years.
 I have made particular contributions to the design and implementation of small languages that bring domain expertise to bear on software challenges, including as a co-author of the main survey paper in the area: [When and how to develop domain-specific languages](https://dl.acm.org/citation.cfm?doid=1118890.1118892) in ACM Computing Surveys.
 
 I'm the lead designer and developer of the [Kiama language processing library](projects/kiama) for Scala that applies domain-specific techniques to the rapid development of language implementations.
@@ -38,7 +36,8 @@ Hoang, T. S., McIver, A. K., Meinicke, L., Morgan, C. C., Sloane, A., and Susaty
 
 Mernik, M., Heering, J., and Sloane, A. M. 2005. [When and how to develop domain-specific languages](https://dl.acm.org/citation.cfm?id=1118892). ACM Computing Surveys. 37, 4, 316-344. [PDF](projects/papers/compsurv05.pdf)
 
-* [Full publication list on Macquarie University PURE system](https://researchers.mq.edu.au/en/persons/anthony-sloane/publications/)
+* [Publication list on Google Scholar](https://scholar.google.com.au/citations?user=Rje58OMAAAAJ&hl=en)
+* [Publication list on Macquarie University PURE system](https://researchers.mq.edu.au/en/persons/anthony-sloane/publications/)
 * [Slides of research talks](https://speakerdeck.com/inkytonik)
 
 ## Recent Teaching
@@ -70,14 +69,9 @@ Mernik, M., Heering, J., and Sloane, A. M. 2005. [When and how to develop domain
 
 ## Biography
 
+* Honorary Associate Professor in the [Department of Computing](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) in the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering) at [Macquarie University](https://www.mq.edu.au/).
+(Associate Professor until Nov 2020.)
 * Received a B.Sc.(Hons)(1984) in Computer Science from the Australian National University and a M.S.(1991) and Ph.D.(1993) in Computer Science from the University of Colorado, Boulder.
 * Head of the Department of Computing at Macquarie University from 2005-2007 and Director of Teaching from 2001-2004 and 2016-2018.
 * Prior to joining Macquarie University in February 1998, worked as a lecturer in the Department of Computer Science at James Cook University.
 * Member of the ACM since 1984.
-
-## Contact
-
-* Department of Computing, Macquarie University, Sydney, NSW 2109, Australia
-* 4 Research Park Drive, room 267
-* Anthony.Sloane AT mq.edu.au
-* +61 2 98509582
