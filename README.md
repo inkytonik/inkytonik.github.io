@@ -19,6 +19,10 @@ Previously, I was one of the designers and developers of the [Eli compiler gener
 * [sbt-rats Parser Generator](projects/sbtrats)
 * [Eli compiler generation system](projects/eli)
 
+## Talks
+
+ * [Talk slides @ SpeakerDeck](https://speakerdeck.com/inkytonik)
+
 ## Publications
 
 * See the project pages above for their key publications.
