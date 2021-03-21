@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      </div>
+      <div class="author-name">
+        {{site.author}}
+      </div>
+      <!-- <p>{{site.about-author}}</p> -->
+    </div>
+    <section class="section">
+      <ul>
+        <li><a href="{{ site.baseurl }}/" class="link">Blog</a></li>
+        <li><a href="{{ site.url }}/pubs" class="link">Pubs</a></li>
+        <li><a href="https://speakerdeck.com/inkytonik" class="link">Talks</a></li>
+        <li><a href="{{ site.url }}/bio" class="link">Bio</a></li>
+      </ul>
+    </section>
+    <section class="section">
+      <h3 class="section-title">Projects</h3>
+      <ul>
+        <li><a href="{{ site.url }}/projects/cooma" class="link">Cooma Secure Programming Language</a></li>
+        <li><a href="{{ site.url }}/projects/eli" class="link">Eli Compiler Generation System</a></li>
+        <li><a href="{{ site.url }}/projects/kiama" class="link">Kiama Scala Language Processing Library</a></li>
+        <li><a href="{{ site.url }}/projects/sbtrats" class="link">sbt-rats Scala Parser Generator</a></li>
+        <li><a href="{{ site.url }}/projects/skink" class="link">Skink Software Verification Tool</a></li>
+      </ul>
+    </section>
+  </header>
+  <footer>
+    <section class="section">
+      <h3 class="section-title">Contact</h3>
+      <ul>
+        <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
+        <li>
+          <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
+          <a href="{{ site.url }}/feed.xml"><i class="fa fa-rss"></i></a>
+        </li>
+      </ul>
+    </section>
+    <div class="copyright">
+      <p>&copy; {{site.author}}</p>
+    </div>
+  </footer>
+</aside>
+<div class="content-box clearfix">
+  {{ content }}
+</div>

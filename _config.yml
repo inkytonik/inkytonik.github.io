@@ -1,0 +1,40 @@
+title: inkytonik
+description: >
+  FIXME
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: ""
+url: ""
+site-twitter: inkytonik
+
+# Author Settings
+author: Anthony Sloane
+author-img: Tony66.jpg
+about-author:
+social-twitter: inkytonik
+social-github: inkytonik
+social-linkedin: anthonysloane
+social-email: inkytonik@gmail.com
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics:
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
