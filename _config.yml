@@ -1,10 +1,7 @@
 title: inkytonik
 description: >
-  FIXME
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
+  Blog, projects, publications and talks from Anthony Sloane (inkytonik).
+permalink: ":title/"
 baseurl: ""
 url: ""
 site-twitter: inkytonik
