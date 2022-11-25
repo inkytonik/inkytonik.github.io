@@ -6,7 +6,9 @@ layout: default
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+        <a href="{{site.baseurl}}/"><img
+            src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}"
+            alt="{{site.author}}"></a>
       </div>
       <div class="author-name">
         {{site.author}}
@@ -36,9 +38,13 @@ layout: default
     <section class="section">
       <h3 class="section-title">Contact</h3>
       <ul>
-        <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
-        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter"
+              aria-hidden="true"></i></a></li>
+        <li><a rel="me" href="https://mastodon.au/@inkytonik"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
+        <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i
+              class="fa fa-github"></i></a></li>
+        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i
+              class="fa fa-linkedin"></i></a></li>
         <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
         <li>
           <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
