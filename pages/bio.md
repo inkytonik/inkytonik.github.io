@@ -32,10 +32,11 @@ Previously, I was one of the designers and developers of the [Eli compiler gener
 
 ## Employment
 
-* Currently Senior Software Engineer at [Symbiont](https://symbiont.io) in the Language Team working on the SymPL smart contract language.
-* Honorary Associate Professor in the [Department of Computing](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) in the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering) at [Macquarie University](https://www.mq.edu.au/).
-(Associate Professor until Nov 2020.)
-* Head of the Department of Computing at Macquarie University from 2005-2007 and Director of Teaching from 2001-2004 and 2016-2018.
+* Principal Software Engineer in Security Tools at Oracle (Jun 2023-present).
+* Senior Software Engineer at [Symbiont](https://symbiont.io) in the Language Team working on the SymPL smart contract language (Jul 2021-Dec 2022).
+* Honorary Associate Professor in the [Department of Computing](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) in the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering) at [Macquarie University](https://www.mq.edu.au/) (Nov 2020-present).
+Associate Professor until Nov 2020.
+* Head of the Department of Computing at Macquarie University (2005-2007) and Director of Teaching (2001-2004, 2016-2018).
 * Prior to joining Macquarie University in February 1998, lecturer in the Department of Computer Science at James Cook University.
 
 ## Visiting Positions
