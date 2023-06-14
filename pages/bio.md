@@ -40,8 +40,8 @@ Previously, I was one of the designers and developers of the [Eli compiler gener
 
 ## Visiting Positions
 
-* Visiting Professor, University of Minnesota (20 Jul 2015-19 Jan 2016)
-* Visiting Professor, Eindhoven University of Technology (1 Jan 2012-30 Jun 2012)
-* Visiting Professor, Delft University of Technology (1 Feb 2008-31 Dec 2008)
-* Visiting Research Fellow, The University of New South Wales (1 Feb 2005-31 Jul 2005)
-* Visiting Professor, Yale University (1 Jan 2001-30 Jun 2001)
+* Visiting Professor, University of Minnesota (Jul 2015-Jan 2016)
+* Visiting Professor, Eindhoven University of Technology (Jan-Jun 2012)
+* Visiting Professor, Delft University of Technology (Feb-Dec 2008)
+* Visiting Research Fellow, The University of New South Wales (Feb-Jul 2005)
+* Visiting Professor, Yale University (Jan-Jun 2001)
