@@ -4,13 +4,11 @@ description: >
 permalink: ":title/"
 baseurl: ""
 url: ""
-site-twitter: inkytonik
 
 # Author Settings
 author: Anthony Sloane
 author-img: Tony66.jpg
 about-author:
-social-twitter: inkytonik
 social-github: inkytonik
 social-linkedin: anthonysloane
 social-email: inkytonik@gmail.com
