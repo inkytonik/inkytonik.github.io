@@ -4,20 +4,22 @@ title: Anthony M. Sloane
 permalink: /bio/
 ---
 
-I have been researching programming languages and software language engineering for more than twenty years.
-I have made particular contributions to the design and implementation of small languages that bring domain expertise to bear on software challenges, including as a co-author of the main survey paper in the area: [When and how to develop domain-specific languages](https://dl.acm.org/citation.cfm?doid=1118890.1118892) in ACM Computing Surveys.
+I am currrently a Principal Software Engineer at Oracle working on static analysis tooling for security.
+
+I researched programming languages and software language engineering for more than twenty years.
+I made particular contributions to the design and implementation of small languages that bring domain expertise to bear on software challenges, including as a co-author of the main survey paper in the area: [When and how to develop domain-specific languages](https://dl.acm.org/citation.cfm?doid=1118890.1118892) in ACM Computing Surveys.
 
 I'm the lead designer and developer of the [Kiama language processing library](/projects/kiama) for Scala that applies domain-specific techniques to the rapid development of language implementations.
-I'm the lead of the [Cooma project](/projects/cooma) funded by Oracle Labs Australia that is investigating pure, functional language design based on fine-grained object capabilities.
-My work on the [Skink Software Verification Tool](/projects/skink) with [Franck Cassez](https://au.linkedin.com/in/franck-cassez-b775807) focuses on applying [Kiama](/projects/kiama), [sbt-rats](/projects/sbtrats), SMT solvers and related libraries to build an automatic program verifier for LLVM with applications to correctness and security.
+I'm the lead of the [Cooma project](/projects/cooma) funded by Oracle Labs Australia that  investigated pure, functional language design based on fine-grained object capabilities.
+My work on the [Skink Software Verification Tool](/projects/skink) with [Franck Cassez](https://au.linkedin.com/in/franck-cassez-b775807) focused on applying [Kiama](/projects/kiama), [sbt-rats](/projects/sbtrats), SMT solvers and related libraries to build an automatic program verifier for LLVM with applications to correctness and security.
 
 Previously, I was one of the designers and developers of the [Eli compiler generation system](/projects/eli) which uses high-level domain-specific languages as specifications.
 
-## Recent Service
+## Notable Service and Memberships
 
 * Editorial board member of [Software-Practice & Experience Journal](https://onlinelibrary.wiley.com/journal/1097024x)
 * Member of Steering Committee of [International Conference on Software Language Engineering (SLE)](https://sleconf.org), PC member [SLE 2021](http://www.sleconf.org/2021/), [SLE 2018](http://www.sleconf.org/2018/), Co-PC Chair [SLE 2011](http://www.sleconf.org/2011/),
-* Member of [IFIP TC-2 Working Group 2.11 on Program Generation](https://wiki.hh.se/wg211/index.php/Main_Page)
+* Member of [IFIP TC-2 Working Group 2.11 on Program Generation](https://wiki.hh.se/wg211/index.php/Main_Page) (2009-2023)
 * Program Committee member for [SCAM 2020](http://www.ieee-scam.org/2020/), [IFL 2019](http://2019.iflconference.org), [GPCE 2018](https://conf.researchr.org/track/gpce-2018/gpce-2018)
 * Reviewer for [ECOOP 2019](https://2019.ecoop.org), [Computer Languages, Systems and Structures](https://www.journals.elsevier.com/computer-languages-systems-and-structures/), [Journal of Functional Programming](https://www.cambridge.org/core/journals/journal-of-functional-programming)
 
