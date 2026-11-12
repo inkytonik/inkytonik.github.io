@@ -4,9 +4,9 @@ title: Anthony M. Sloane
 permalink: /bio/
 ---
 
-I am currrently a Principal Software Engineer at Oracle working on static analysis tooling for security.
+I was a Principal Software Engineer at Oracle working on static analysis tooling for security.
 
-I researched programming languages and software language engineering for more than twenty years.
+As a University academic I researched programming languages and software language engineering for more than twenty years.
 I made particular contributions to the design and implementation of small languages that bring domain expertise to bear on software challenges, including as a co-author of the main survey paper in the area: [When and how to develop domain-specific languages](https://dl.acm.org/citation.cfm?doid=1118890.1118892) in ACM Computing Surveys.
 
 I'm the lead designer and developer of the [Kiama language processing library](/projects/kiama) for Scala that applies domain-specific techniques to the rapid development of language implementations.
@@ -27,7 +27,7 @@ Previously, I was one of the designers and developers of the [Eli compiler gener
 
 ## Employment
 
-* Principal Software Engineer in Security Tools at Oracle (Jun 2023-present).
+* Principal Software Engineer in Security Tools at Oracle (Jun 2023-Oct 2026).
 * Senior Software Engineer at [Symbiont](https://symbiont.io) in the Language Team working on the SymPL smart contract language (Jul 2021-Dec 2022).
 * Honorary Associate Professor in the [Department of Computing](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) in the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering) at [Macquarie University](https://www.mq.edu.au/) (Nov 2020-Nov 2025).
 Associate Professor until Nov 2020.
